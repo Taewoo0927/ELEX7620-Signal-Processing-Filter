@@ -8,4 +8,5 @@ At the end of this lab, I organized through using Matlab live script and simulat
 | Circuit Schematic | Circuit Simulation |
 |-------------------|--------------------|
 | <img src="/Lab%2001%20-%20Sallen%20Key%20Active%20Filter/LTSpice/Schematic%20&%20Plot/Circuit-Schematic.png" alt="Circuit Schematic" width="400" height="400"> 
-| <img src="/Lab%2001%20-%20Sallen%20Key%20Active%20Filter/LTSpice/Schematic%20&%20Plot/Circuit-Simulation.png" alt="Circuit simulation" width="400" height="400"> |
+| <img src="/Lab%2001%20-%20Sallen%20Key%20Active%20Filter/LTSpice/Schematic%20&%20Plot/Circuit-Simulation.png" alt="Circuit simulation" width="400" height="400"> 
+|
