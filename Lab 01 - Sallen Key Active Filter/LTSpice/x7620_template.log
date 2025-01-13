@@ -1,9 +1,9 @@
-Circuit: * C:\Users\Taewoo Kim\OneDrive - BCIT\C. Third year\Lv6\ELEX 7620\Lab 01\x7620_template.asc
+Circuit: * C:\Users\Taewoo Kim\OneDrive - BCIT\C. Third year\Lv6\ELEX 7620\ELEX7620-Signal-Processing-Filter\Lab 01 - Sallen Key Active Filter\LTSpice\x7620_template.asc
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Sun Jan 12 18:16:58 2025
-Total elapsed time: 0.032 seconds.
+Date: Sun Jan 12 18:59:27 2025
+Total elapsed time: 0.023 seconds.
 
 tnom = 27
 temp = 27
